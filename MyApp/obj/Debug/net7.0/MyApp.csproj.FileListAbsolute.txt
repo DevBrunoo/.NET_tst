@@ -1,0 +1,15 @@
+/Users/brunocosta/.NET_tst/MyApp/bin/Debug/net7.0/MyApp
+/Users/brunocosta/.NET_tst/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/brunocosta/.NET_tst/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/brunocosta/.NET_tst/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/brunocosta/.NET_tst/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/brunocosta/.NET_tst/MyApp/obj/Debug/net7.0/ref/MyApp.dll
